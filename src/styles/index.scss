@@ -1,0 +1,14 @@
+// configure 
+// partile过后的scss文件不会被编译
+@import  "variables";
+
+
+//layout
+@import "reboot";
+
+ 
+//mixin
+@import "mixin";
+
+//button 
+@import  "../Components/Button/style";
